@@ -1,0 +1,5 @@
+file: t64.bin
+bytes: 3162369
+shannon_entropy_bits_per_byte: 7.99995 (max 8.0)
+first_8_bytes_hex: b61677cdc3402e71
+known_file_or_compression_header: none

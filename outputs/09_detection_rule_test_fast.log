@@ -1,0 +1,4 @@
+# suricata 7.0.3: suricata -r COMP3010CW1.pcap -S rules/local.rules -k none
+# times shown in container local time (UTC+1); 14:38 = 13:38 UTC
+06/27/2017-14:38:32.234351  [**] [1:9000002:1] LOCAL Known Pushdo dropper domain matied.com [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.1.96:58520 -> 192.168.1.1:53
+06/27/2017-14:38:34.112671  [**] [1:9000001:1] LOCAL Outbound HTTP with WinHttp script User-Agent [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.1.96:49184 -> 119.28.70.207:80

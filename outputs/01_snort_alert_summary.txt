@@ -1,0 +1,25 @@
+Total Snort alerts: 673
+Alerts naming 192.168.1.96: 673
+
+Count  Signature
+    498 [**] [1:29891:7] MALWARE-CNC Win.Trojan.Pushdo variant outbound connection [**]
+     47 [**] [1:23832:4] INDICATOR-OBFUSCATION non-alphanumeric javascript detected [**]
+     41 [**] [124:1:1] (smtp) Attempted command buffer overflow: more than 512 chars [**]
+     16 [**] [120:3:1] (http_inspect) NO CONTENT-LENGTH OR TRANSFER-ENCODING IN HTTP RESPONSE [**]
+     11 [**] [1:32481:2] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+     10 [**] [1:19887:7] INDICATOR-OBFUSCATION potential javascript unescape obfuscation attempt detected [**]
+      9 [**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+      9 [**] [120:8:2] (http_inspect) INVALID CONTENT-LENGTH OR CHUNK SIZE [**]
+      7 [**] [1:35180:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+      6 [**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+      3 [**] [1:26879:6] BROWSER-OTHER local loopback address in html [**]
+      3 [**] [1:15168:13] INDICATOR-COMPROMISE Suspicious .ru dns query [**]
+      3 [**] [129:12:1] Consecutive TCP small segments exceeding threshold [**]
+      2 [**] [1:26848:7] BROWSER-IE Microsoft Internet Explorer 7 emulation via meta tag [**]
+      2 [**] [1:11192:20] FILE-EXECUTABLE download of executable content [**]
+      1 [**] [1:28629:6] INDICATOR-OBFUSCATION obfuscated script encoding detected [**]
+      1 [**] [1:28406:1] MALWARE-CNC Win.Trojan.Kazy variant outbound connection [**]
+      1 [**] [138:5:1] SENSITIVE-DATA Email Addresses [**]
+      1 [**] [124:3:1] (smtp) Attempted response buffer overflow: 856 chars [**]
+      1 [**] [124:3:1] (smtp) Attempted response buffer overflow: 611 chars [**]
+      1 [**] [119:33:1] (http_inspect) UNESCAPED SPACE IN HTTP URI [**]

@@ -1,0 +1,3 @@
+time_utc,src_mac,src_ip,dhcp_msg_type,hostname
+2017-06-27 13:40:52,00:15:c5:de:c7:3b,192.168.1.96,8,FlashGordon-PC
+2017-06-27 13:43:49,00:15:c5:de:c7:3b,192.168.1.96,8,FlashGordon-PC
